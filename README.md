@@ -22,3 +22,13 @@ Avoid collisions with the walls and the snake's own tail.
 Aim to collect as much food as possible to achieve the highest score.
 The game ends when the snake collides with a wall or its own body.
 Click or tap the restart button to play again and improve your score.
+
+
+Technologies Used:
+
+HTML5 Canvas: For rendering the game graphics and animations.
+JavaScript: To implement the game logic, controls, and collision detection.
+CSS: For styling the game interface and ensuring responsiveness.
+Experience the joy of the timeless Snake game right in your browser. Play, challenge your friends, and have fun with the Canvas Snake Game!
+
+Play it here: Game Demo
