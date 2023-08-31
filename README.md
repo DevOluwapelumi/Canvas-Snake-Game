@@ -31,4 +31,4 @@ JavaScript: To implement the game logic, controls, and collision detection.
 CSS: For styling the game interface and ensuring responsiveness.
 Experience the joy of the timeless Snake game right in your browser. Play, challenge your friends, and have fun with the Canvas Snake Game!
 
-Play it here: Game Demo
+Play it here: Game Demo : https://devoluwapelumi.github.io/Canvas-Snake-Game/
