@@ -12,3 +12,13 @@ Score Tracking: Keep track of your score as you collect food. Challenge yourself
 Collision Detection: The game features robust collision detection to ensure that the snake reacts appropriately when it touches the walls or its own tail.
 Game Over State: When the snake collides with a wall or its own body, the game ends, and the player's final score is displayed.
 Restart Option: Players can restart the game with a simple click or tap after a game over, allowing for quick and easy replayability.
+
+How to Play:
+
+Open the game in a compatible web browser by accessing the provided URL.
+Use the arrow keys or swipe gestures to control the direction of the snake.
+Guide the snake to eat the food items that appear on the canvas.
+Avoid collisions with the walls and the snake's own tail.
+Aim to collect as much food as possible to achieve the highest score.
+The game ends when the snake collides with a wall or its own body.
+Click or tap the restart button to play again and improve your score.
