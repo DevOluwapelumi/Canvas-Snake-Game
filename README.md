@@ -32,3 +32,5 @@ CSS: For styling the game interface and ensuring responsiveness.
 Experience the joy of the timeless Snake game right in your browser. Play, challenge your friends, and have fun with the Canvas Snake Game!
 
 Play it here: Game Demo : https://devoluwapelumi.github.io/Canvas-Snake-Game/
+
+Feel free to customize the description, feature list, and instructions as per your game's actual features and design. Don't forget to replace the placeholders (e.g., banner_image_url, game_demo_url) with actual URLs and images.
